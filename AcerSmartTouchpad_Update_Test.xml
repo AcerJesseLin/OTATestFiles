@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <AppInfo>
   <SWversion>1.0.9.0</SWversion>
-  <UpdateLink>https://github.com/AcerJesseLin/OTATestFiles/raw/refs/heads/main/AcerSmartTouchpad.msi</UpdateLink>
+  <UpdateLink>https://github.com/AcerJesseLin/OTATestFiles/raw/refs/heads/main/AcerSmartTouchpad_Updater.exe</UpdateLink>
   <ReleaseNote></ReleaseNote>
 </AppInfo>
